@@ -1,6 +1,6 @@
-# Solution Architecture WebCam Project
+# Solution Architecture WebCam Project 
 
-'''
+```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                            App Bootstrap                                 │
 │──────────────────────────────────────────────────────────────────────────│
